@@ -5,6 +5,7 @@ permalink:        /archive/:year/:month/:title/
 
 # Setup
 title:            Benjamin Hysell
+tagline:          'Software, Projects, and People'
 email:            ben.hysell@gmail.com
 description:      'Software, Projects, and People'
 url:              http://benhysell.github.io
