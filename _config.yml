@@ -1,5 +1,4 @@
 # Dependencies
-highlighter:      pygments
 
 # Permalinks
 permalink:        /archive/:year/:month/:title/
