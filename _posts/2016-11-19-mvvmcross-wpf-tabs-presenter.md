@@ -31,6 +31,7 @@ Application is made up of four `Views`:
 `TabPresenter.cs` in `V.Tabs.Wpf\Utilitiles` manages swapping and replacing `Views` based on user input.  By decorating a View's `xaml.cs` class definition with a `Region` attribute will define where that `View` is shown.
 
 i.e. From `TabOneView.xaml.cs`
+
 ```
 [Region(Region.Tab)]
 public partial class TabOneView
@@ -39,6 +40,7 @@ public partial class TabOneView
 Tells the `TabPresenter` this region is a tab and to replace the currently shown tab in the `HomeView`.
 
 For a full screen `View` `DetailFullScreenView.xaml.cs` is decorated with 
+
 ```
 [Region(Region.FullScreen)]
 public partial class DetailFullScreenView
