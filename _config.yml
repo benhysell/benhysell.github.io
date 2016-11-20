@@ -3,7 +3,7 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
+permalink:        /archive/:year/:month/:title/
 
 # Setup
 title:            Hyde
@@ -13,8 +13,8 @@ url:              http://benhysell.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'benjamin hysell'
+  url:            https://twitter.com/benhysell
 
 paginate:         5
 
