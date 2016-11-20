@@ -31,6 +31,7 @@ Applicaiton is made up of four `Views`:
 `SlideoutPresenter.cs` in `V.Slideout.Wpf\Utilitiles` manages swapping and replacing `Views` based on user input.  By decorating a `View's` `xaml.cs` class definition with a `Region` attribute will define where that `View` is shown.
 
 i.e. From `MenuOneView.xaml.cs`
+
 ```
 [Region(Region.BaseShowSlidingMenu)]
 public partial class MenuOneView
@@ -39,6 +40,7 @@ public partial class MenuOneView
 Tells the `SlideoutPresenter` this `View` should show the slideout menu button and to replace the currently shown `View` in the `HomeView`.
 
 For a full screen view `DetailFullScreenView.xaml.cs` is decorated with 
+
 ```
 [Region(Region.FullScreenNavigateBackwards)]
 public partial class DetailFullScreenView
