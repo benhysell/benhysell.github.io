@@ -1,6 +1,6 @@
 ---
 id: 6
-title: About Me
+title: About
 date: 2008-12-15T00:27:02+00:00
 author: benjamin hysell
 layout: page
