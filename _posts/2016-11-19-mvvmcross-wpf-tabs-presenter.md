@@ -37,6 +37,7 @@ i.e. From `TabOneView.xaml.cs`
 public partial class TabOneView
 {
 ```
+
 Tells the `TabPresenter` this region is a tab and to replace the currently shown tab in the `HomeView`.
 
 For a full screen `View` `DetailFullScreenView.xaml.cs` is decorated with 
@@ -46,4 +47,5 @@ For a full screen `View` `DetailFullScreenView.xaml.cs` is decorated with
 public partial class DetailFullScreenView
 {
 ``` 
+
 Telling the `TabPresenter` to replace the entire `HomeView` with the contents of `DetailFullScreenView`.  Once the user closes `DetailFullScreenView` the `HomeView` with the tabs will again be shown the user.  `DetailFullScreenView` is stacked on top of `HomeView` to take over the whole screen.
