@@ -12,7 +12,6 @@ baseurl:          /
 author:           Benjamin Hysell
 author_email:     ben.hysell@gmail.com
 name:             'Benjamin Hysell Blog'
-url:              https://twitter.com/benhysell
 
 paginate:         5
 
