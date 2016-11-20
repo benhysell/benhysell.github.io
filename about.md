@@ -1,30 +1,39 @@
 ---
+id: 6
+title: About Me
+date: 2008-12-15T00:27:02+00:00
+author: benjamin hysell
 layout: page
-title: About
+guid: http://benjaminhysell.com/?page_id=2
 ---
+My name is Benjamin Hysell, and I love to program and write about programming, project management, and people management.  I acquired my love of programming from my father, a veterinarian, who used IBM’s first PC and BASIC to create a suite of applications to run his animal hospital.
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+When the PCjr was released, I received my first programming book from my father, and I was hooked.  <em>BASIC Fun with Graphics the IBM/PC Way</em> and I spent quite a few hours together.  By the time I took my first structured programming class in sixth grade I knew I wanted to be involved with computers and programming when I “grew up.”
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Throughout high school and college my father and I worked on several projects together, I would bring home new programming techniques and architectures, and he would teach me the value of optimizing code to work within systems with limited resources like RAM and hard drive space.
 
-There are currently two themes built on Poole:
+I have since touched many different programming languages, from Pascal, C++, Prolog, and lately the .NET languages and Java.  After college my focus has turned to seeking out tools and techniques that allow me to be more productive, and ensure the code I create is robust and testable.  I have since added to my programming arsenal test-driven development, agile project management, object mocking, personas, and continue to read and evaluate new programming techniques on a daily basis.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I am a Senior Systems Engineer for <a href="http://www.viewpointusa.com">Viewpoint Systems</a>, translation: I am an active developer with management responsibilities.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Viewpoint Systems is a consulting company that specializes in specifying and building test and measurement systems with our clients.  I have had the opportunity to design and implement many different complex systems using C#, ASP.NET, and <a href="http://www.ni.com">National Instruments</a> graphical programming language <a href="http://www.ni.com/labview/">LabVIEW</a>.
 
-## Setup
+In my free time love playing ice hockey (I've been actively playing since I was old enough to walk), skiing, weight training, jogging, yoga, meditating, and hiking with my wife and our German Shepherd.
 
-Some fun facts about the setup of this project include:
+A few links that will give a little insight into who I am and how I work can be found within my blog:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+- <a href="http://benjaminhysell.com/archive/2009/01/why-write-a-technical-blog/" rel="nofollow">http://benjaminhysell.com/archive/2009/01/why-write-a-technical-blog/</a>
+- <a href="http://benjaminhysell.com/archive/2009/02/the-technical-interview/" rel="nofollow">http://benjaminhysell.com/archive/2009/02/the-technical-interview/</a>
+- <a href="http://benjaminhysell.com/archive/2009/03/very-strong-opinions-very-weakly-held/" rel="nofollow">http://benjaminhysell.com/archive/2009/03/very-strong-opinions-very-weakly-held/</a>
+- <a href="http://benjaminhysell.com/archive/2009/05/your-baby-is-ugly/" rel="nofollow">http://benjaminhysell.com/archive/2009/05/your-baby-is-ugly/</a>
+- <a href="http://benjaminhysell.com/archive/2009/05/how-valuable-are-yearly-reviews/" rel="nofollow">http://benjaminhysell.com/archive/2009/05/how-valuable-are-yearly-reviews/</a>
+- <a href="http://benjaminhysell.com/archive/2009/06/understanding-the-wheel/" rel="nofollow">http://benjaminhysell.com/archive/2009/06/understanding-the-wheel/</a>
+- <a href="http://benjaminhysell.com/archive/2009/07/how-would-you-motivate-howard-stern/" rel="nofollow">http://benjaminhysell.com/archive/2009/07/how-would-you-motivate-howard-stern/</a>
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Contact Me
+<a href="mailto:ben.hysell@gmail.com">ben.hysell@gmail.com</a>
+<a href="http://twitter.com/benhysell">@benhysell</a>
+<a rel="author" href="https://plus.google.com/103250958514494127453?rel=author">
+</a>
+<a rel="me" href="https://plus.google.com/103250958514494127453?rel=me">
+</a>

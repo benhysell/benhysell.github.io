@@ -6,14 +6,13 @@ highlighter:      pygments
 permalink:        /archive/:year/:month/:title/
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Benjamin Hysell
+description:      'Software, Projects, and People'
 url:              http://benhysell.github.io
 baseurl:          /
 
 author:
-  name:           'benjamin hysell'
+  name:           'Benjamin Hysell'
   url:            https://twitter.com/benhysell
 
 paginate:         5
