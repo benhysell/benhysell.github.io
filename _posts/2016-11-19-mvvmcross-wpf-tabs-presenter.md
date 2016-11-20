@@ -20,9 +20,6 @@ Sample MvvmCross WPF application with a tabs presenter. A tab bar is defined in 
 
 ## Usage
 
-Application is made up of four `Views`:
-
-
 + Home - Main screen that holds the tab bar and where tabs are shown
 + TabOne - Sample tab that also includes a button to show a full screen view
 + TabTwo and TabThree - Extra tabs to fill out the application
