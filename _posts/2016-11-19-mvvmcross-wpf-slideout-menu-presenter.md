@@ -20,6 +20,7 @@ Sample MvvmCross WPF application with a slideout presenter. A slideout button is
 ## Usage
 
 Applicaiton is made up of four `Views`:
+
 * Home - Main screen that holds the slideout button, slideout menu, and where menu items are shown
 * MenuOne - Sample `View` that also includes a button to show a full screen `View`
 * MenuTwo and MenuThree - Extra `Views` to fill out the application
